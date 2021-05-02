@@ -8,7 +8,7 @@ A website that offers SEO and other website promotion services.
 * CSS
 
 ## Website
-https://cactido.github.io/
+https://cactido.github.io/horiseon
 
 ## Contribution
 Made with ❤️ by Travis Russell

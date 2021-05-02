@@ -1,3 +1,11 @@
+/* 
+
+    css/html comments
+    readme
+
+*/
+
+/* entire page elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,7 +24,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* header/nav section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +57,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+ /* hero styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +66,7 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-
+/* content/left column styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -82,18 +90,17 @@ header nav ul li {
 .content img {
     max-height: 200px;
 }
-
+/* float position management for content/benefits sections */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* right column/benefits section styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +127,7 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
